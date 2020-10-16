@@ -1,5 +1,5 @@
 # YAX-Coming-soon-HTML5-CSS3-Template
-Free Bootstrap HTML5 CSS3 Responsive Coming soon website template which includes company logo, timer, email subscription, links to social media too.
+Free Bootstrap HTML5 CSS3 Responsive Coming soon website template which includes company logo, timer, email subscription, links to social media also.
 
 Designed by : Ilya B. <br />
 url : https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template <br />
